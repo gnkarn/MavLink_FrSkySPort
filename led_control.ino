@@ -44,6 +44,7 @@
  *
  * To Use this script in Simulation Mode (#define SIMULATION_MODE)
  * In SIMULATION_MODE script can run stand alone on your development environment, but no input is possible.
+ * Modified by gnk , added several effects
  */
 #ifdef USE_TEENSY_LED_SUPPORT
 //#####################################################################################################
